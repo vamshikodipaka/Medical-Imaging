@@ -1,2 +1,5 @@
 # MedicalCourseWork
-MIA: 1 Project. 1 Lab 
+
+Project: Segmentation of Left Ventricular Epicardium and Endocardium in Short Axis MRI
+
+Lab: Post-Processing of Prostate MRI 
